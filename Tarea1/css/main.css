@@ -1,0 +1,125 @@
+body {
+  color: rgba(128, 128, 128, 1);
+  background-color: #9CE2C4;
+}
+
+article {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #F9EFC7;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.4em;
+	padding-top: 40px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 80px;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: normal;
+  letter-spacing: -1px;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: normal;
+  text-transform: normal;
+  letter-spacing: normal;
+  line-height: 1.4em;
+}
+
+li {
+  color: green;  
+}
+
+section {
+  /*border-top: 1px #ccc solid;*/
+}
+
+#bio {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: normal;
+  text-transform: normal;
+  letter-spacing: normal;
+  line-height: 1.5em;
+}
+
+#bio p:first-child {
+  color: red;
+  font-size: 18px;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+#portada{
+	padding-left: 30px;
+	padding-right: 90px;
+	padding-top: 0px;
+	background-color: white;
+}
+
+#img1 {
+	width: 300px; height: 400px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: right;
+	-webkit-box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+	-moz-box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+	box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+
+}
+
+#img2 {
+	width:300px; height:400px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+	-webkit-box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+	-moz-box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+	box-shadow: 0px 0px 29px 0px rgba(51,51,49,1);
+}
+
+footer{
+	border-top: 2px #ccc solid;
+}
+
+#derecha{
+	margin-left: 347px;
+}
+
+#autor{
+	font-family: “Trebuchet MS”, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: normal;
+	letter-spacing: -1px;
+	line-height: 1.2em;
+	background-color: rgba(255, 2, 127, 1);
+	text-align: center;
+	color: white;
+}
